@@ -1,0 +1,8 @@
+# IDE files
+.idea/
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
